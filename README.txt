@@ -1,5 +1,5 @@
 #Oral microbiome profiling in smokers with and without head and neck cancer reveals variations between health and disease.
-#The datasets generated for the current study have been deposited in the NCBI BioProject database under project number ** PRJNA668810 ** 
+#The datasets generated for the current study have been deposited in the NCBI BioProject database under project number **PRJNA668810** 
 
 #-- 16S rRNA (v4 region) data Analysis 
 
